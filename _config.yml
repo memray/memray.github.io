@@ -1,0 +1,27 @@
+# Jekyll Settings
+excerpt_separator: <!--more-->
+exclude: ["CNAME", "README.md", "LICENSE"]
+paginate: 5
+paginate_path: ":num"
+permalink: pretty
+sass:
+    style: :compressed
+
+# Gems
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom Variables
+analytics: 100929437
+author:
+  email: "memray0@gmail.com"
+  github: "memray"
+  linkedin: "memray"
+  name: "Rui Meng"
+  uri: "http://memray.me"
+  description: I'm a PhD student at University of Pittsburgh. I'm deeply interested in Deep Learning, NLP and Machine Learning.
+description: "Personal website of Rui Meng, PhD @ Pittsburgh"
+title: "Rui Meng"
+url: "http://memray.me"
