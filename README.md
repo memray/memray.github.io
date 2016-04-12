@@ -1,11 +1,7 @@
 # memray.me
 
-Personal website for [http://memray.me/](http://memray.me/) built with [Jekyll](http://jekyllrb.com/) and hosted on [Amazon S3](https://aws.amazon.com/s3/). Template from [http://memray.me/](http://memray.me/).
-## Requirements
+Personal website for [http://memray.me/](http://memray.me/) built with [Jekyll](http://jekyllrb.com/) and hosted on [Amazon S3](https://aws.amazon.com/s3/). Template from [http://maberger.com/](http://maberger.com/).
 
-```sh
-gem install github pages
-```
 
 ## Usage
 
