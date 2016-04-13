@@ -5,3 +5,5 @@ Currently my research focuses on natural language processing, information retrie
 
 Before coming to Pittsburgh, I received my bachelor and master degree from [Wuhan University](http://www.whu.edu.cn/) (regarded as one of the most beautiful campuses and top universities for decades in China), and I worked
 with Prof. [Wei Lu](http://www.sim.whu.edu.cn/index.php/index-view-aid-239.html).
+
+Have a look at my [resume](/resume/) for more information.

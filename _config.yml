@@ -12,6 +12,10 @@ gems:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+  - kramdown
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
 
 # Custom Variables
 analytics: 100929437

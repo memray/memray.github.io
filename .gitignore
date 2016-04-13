@@ -4,3 +4,5 @@ _site/
 .DS_Store
 .*.swp
 .idea
+deploy_blog_s3.sh
+s3_website.yml
